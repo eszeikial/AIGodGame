@@ -1,11 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScripts\SteeringVehicle.cs">
     <Files>
-      <File FileName="Assets\MyScripts\Noise.cs" Line="44" Column="42" />
-      <File FileName="Assets\MyScripts\ProceduralGenerator.cs" Line="37" Column="28" />
+      <File FileName="Assets\MyScripts\Noise.cs" Line="226" Column="26" />
+      <File FileName="Assets\MyScripts\ProceduralGenerator.cs" Line="10" Column="2" />
       <File FileName="Assets\MyScripts\CameraControlScript.cs" Line="53" Column="6" />
-      <File FileName="Assets\MyScripts\SteeringVehicle.cs" Line="37" Column="43" />
+      <File FileName="Assets\MyScripts\SteeringVehicle.cs" Line="48" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
